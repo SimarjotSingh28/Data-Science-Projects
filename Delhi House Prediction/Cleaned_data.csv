@@ -1,0 +1,1206 @@
+,Area,BHK,Bathroom,Locality,Price,Type
+0,800.0,3,2.0,Rohini Sector 25,6500000,Builder_Floor
+1,750.0,2,2.0,Rohini Sector 24,5000000,Apartment
+2,950.0,2,2.0,Rohini Sector 13,15500000,Apartment
+3,600.0,2,2.0,Rohini Sector 24,4200000,Builder_Floor
+5,1300.0,4,3.0,Rohini Sector 24,15500000,Builder_Floor
+6,1350.0,4,3.0,Rohini Sector 24,10000000,Builder_Floor
+7,650.0,2,2.0,Rohini Sector 24,4000000,Apartment
+8,985.0,3,3.0,Rohini Sector 21,6800000,Builder_Floor
+9,1300.0,4,4.0,Rohini Sector 22,15000000,Builder_Floor
+10,1100.0,3,2.0,Rohini Sector 20,6200000,Builder_Floor
+11,870.0,3,2.0,Rohini Sector 25,7700000,Builder_Floor
+12,630.0,2,2.0,Rohini Sector 24,5500000,Builder_Floor
+13,660.0,2,2.0,Rohini Sector 24,5000000,Builder_Floor
+16,550.0,2,2.0,Rohini Sector 22,4500000,Builder_Floor
+17,1100.0,4,3.0,Rohini Sector 16,17000000,Builder_Floor
+18,1150.0,3,3.0,Rohini Sector 14,25000000,Apartment
+19,650.0,2,2.0,Rohini Sector 24,6000000,Builder_Floor
+20,850.0,2,2.0,Rohini Sector 9,11000000,Apartment
+21,900.0,3,2.0,Rohini,4500000,Builder_Floor
+23,900.0,2,2.0,Rohini,10500000,Apartment
+24,914.9315,2,2.0,Rohini Sector 5,12000000,Builder_Floor
+25,1100.0,3,3.0,Rohini Sector 20,7000000,Builder_Floor
+26,800.0,3,2.0,Rohini Sector 25,7000000,Builder_Floor
+27,500.0,1,1.0,Rohini Sector 28,3400000,Apartment
+28,28.0,2,2.0,Rohini Sector 25,5000000,Apartment
+29,2160.0,4,4.0,Rohini Sector 19,21000000,Builder_Floor
+31,800.0,2,2.0,Lajpat Nagar 1,15000000,Builder_Floor
+32,900.0,2,2.0,Lajpat Nagar,10500000,Builder_Floor
+33,1080.0,3,2.0,Lajpat Nagar,22500000,Builder_Floor
+34,750.0,2,2.0,Lajpat Nagar 4,13600000,Builder_Floor
+35,1450.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+36,900.0,2,2.0,Lajpat Nagar,13500000,Apartment
+38,1350.0,3,4.0,Lajpat Nagar,25000000,Apartment
+39,1710.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+40,1650.0,3,3.0,Lajpat Nagar,30000000,Builder_Floor
+41,1280.0,2,2.0,Lajpat Nagar,12500000,Builder_Floor
+42,1260.0,3,3.0,Lajpat Nagar 3,21000000,Builder_Floor
+43,1130.0,2,2.0,Lajpat Nagar 4,7800000,Builder_Floor
+44,600.0,2,2.0,Lajpat Nagar,11500000,Builder_Floor
+45,850.0,2,2.0,Lajpat Nagar 1,11500000,Builder_Floor
+46,1500.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+47,900.0,2,2.0,Lajpat Nagar,13000000,Builder_Floor
+48,1000.0,3,3.0,Lajpat Nagar,22000000,Builder_Floor
+49,900.0,2,2.0,Lajpat Nagar 2,15800000,Builder_Floor
+50,2925.0,4,4.0,Lajpat Nagar 3,57500000,Builder_Floor
+51,900.0,2,2.0,Lajpat Nagar 1,10000000,Builder_Floor
+52,1600.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+53,1143.0,3,3.0,Lajpat Nagar,22000000,Builder_Floor
+54,1150.0,3,3.0,Lajpat Nagar,24000000,Builder_Floor
+55,1500.0,3,3.0,Lajpat Nagar 3,31500000,Builder_Floor
+56,850.0,2,2.0,Lajpat Nagar 2,14600000,Builder_Floor
+57,8000.0,4,5.0,Lajpat Nagar,240000000,Builder_Floor
+58,890.0,2,2.0,Lajpat Nagar 1,8300000,Builder_Floor
+59,1100.0,3,3.0,Lajpat Nagar,22500000,Builder_Floor
+60,750.0,1,1.0,Dwarka Sector 14,4600000,Apartment
+61,850.0,2,1.0,Dwarka Sector 24,1900000,Apartment
+62,1350.0,3,2.0,Dwarka Sector 24,5130000,Apartment
+63,1387.0,4,4.0,Dwarka Sector 24,5890000,Apartment
+64,1050.0,3,2.0,Dwarka Sector 21,3700000,Apartment
+65,1500.0,3,2.0,Dwarka Sector 12,17400000,Apartment
+66,1200.0,3,3.0,Dwarka Sector 12,15500000,Apartment
+67,700.0,2,1.0,Dwarka Sector 24,2400000,Apartment
+68,1700.0,3,2.0,Dwarka,17200000,Apartment
+69,1550.0,3,2.0,Dwarka Sector 7,14200000,Apartment
+70,1400.0,3,3.0,Dwarka Sector 23,13500000,Apartment
+71,1900.0,4,4.0,Dwarka Sector 12,30000000,Apartment
+72,2160.0,4,3.0,Dwarka Sector 19,21000000,Apartment
+73,1700.0,4,3.0,Dwarka Sector 5,20500000,Apartment
+74,1850.0,3,4.0,Dwarka,24000000,Apartment
+75,1800.0,4,2.0,Dwarka Sector 5,16500000,Apartment
+76,1620.0,3,2.0,Dwarka Sector 18,14900000,Apartment
+77,1800.0,4,3.0,Dwarka Sector 11,19200000,Apartment
+78,1540.0,3,3.0,Dwarka Sector 3,14500000,Apartment
+79,1600.0,3,3.0,Dwarka,15600000,Apartment
+80,1400.0,3,2.0,Dwarka Sector 12,11400000,Apartment
+81,2300.0,4,4.0,Dwarka,31500000,Apartment
+82,1560.0,3,2.0,Dwarka Sector 12,15800000,Apartment
+83,1500.0,3,3.0,Dwarka,16000000,Apartment
+84,1540.0,3,3.0,Dwarka Sector 3,14500000,Apartment
+85,1050.0,2,2.0,Dwarka,10500000,Apartment
+86,1800.0,3,2.0,Dwarka Sector 4,14800000,Apartment
+88,1150.0,3,2.0,Dwarka Sector 16B,6800000,Builder_Floor
+89,1525.0,3,3.0,Dwarka Sector 23,14200000,Apartment
+90,900.0,1,1.0,Lajpat Nagar 3,8900000,Builder_Floor
+91,1450.0,3,3.0,Lajpat Nagar 3,37500000,Builder_Floor
+92,1450.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+93,1260.0,3,3.0,Lajpat Nagar 3,21000000,Builder_Floor
+94,2925.0,4,4.0,Lajpat Nagar 3,57500000,Builder_Floor
+95,1710.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+96,1600.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+97,1500.0,3,3.0,Lajpat Nagar 3,31500000,Builder_Floor
+98,2200.0,3,3.0,Lajpat Nagar 3,30000000,Builder_Floor
+99,1350.0,3,3.0,Lajpat Nagar 3,41500000,Builder_Floor
+100,1710.0,3,3.0,Lajpat Nagar 3,24800000,Builder_Floor
+101,1350.0,3,3.0,Lajpat Nagar 3,35000000,Builder_Floor
+102,1500.0,3,3.0,Lajpat Nagar 3,40000000,Builder_Floor
+103,2880.0,4,5.0,Lajpat Nagar 3,46000000,Builder_Floor
+104,2700.0,4,4.0,Lajpat Nagar 3,55000000,Builder_Floor
+105,1400.0,3,3.0,Lajpat Nagar 3,24500000,Builder_Floor
+106,1800.0,3,3.0,Lajpat Nagar 3,24500000,Apartment
+107,1400.0,3,3.0,Lajpat Nagar 3,32500000,Builder_Floor
+108,1000.0,2,2.0,Lajpat Nagar 3,20000000,Apartment
+109,8000.0,4,5.0,Lajpat Nagar,240000000,Builder_Floor
+110,1000.0,2,2.0,Lajpat Nagar 3,20000000,Apartment
+111,1700.0,3,3.0,Lajpat Nagar 3,19000000,Builder_Floor
+112,1600.0,3,3.0,Lajpat Nagar 3,26000000,Builder_Floor
+113,1350.0,3,3.0,Lajpat Nagar 3,21000000,Builder_Floor
+114,1700.0,3,3.0,Lajpat Nagar 3,27500000,Builder_Floor
+115,1400.0,3,3.0,Lajpat Nagar 3,32500000,Builder_Floor
+116,1450.0,3,3.0,Lajpat Nagar 3,45000000,Builder_Floor
+117,1350.0,3,3.0,Lajpat Nagar 3,21000000,Builder_Floor
+118,1700.0,3,3.0,Lajpat Nagar 3,28000000,Builder_Floor
+119,1600.0,3,3.0,Lajpat Nagar 3,29500000,Builder_Floor
+121,800.0,2,2.0,Lajpat Nagar 2,14000000,Builder_Floor
+122,1710.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+123,1350.0,2,2.0,Lajpat Nagar 2,12500000,Builder_Floor
+124,1500.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+125,750.0,2,2.0,Lajpat Nagar,11500000,Builder_Floor
+126,850.0,2,2.0,Lajpat Nagar 2,14600000,Builder_Floor
+127,1575.0,3,3.0,Lajpat Nagar 2,25500000,Builder_Floor
+128,1675.0,3,3.0,Lajpat Nagar 2,31000000,Builder_Floor
+129,1350.0,3,3.0,Lajpat Nagar 2,22000000,Builder_Floor
+130,900.0,2,2.0,Lajpat Nagar 2,13400000,Builder_Floor
+131,1800.0,3,3.0,Lajpat Nagar 2,35000000,Builder_Floor
+132,900.0,2,2.0,Lajpat Nagar 2,11000000,Builder_Floor
+133,900.0,2,2.0,Lajpat Nagar,6300000,Builder_Floor
+134,900.0,2,2.0,Lajpat Nagar 2,12500000,Builder_Floor
+135,800.0,2,2.0,Lajpat Nagar 2,14500000,Builder_Floor
+136,1100.0,2,3.0,Lajpat Nagar 2,22500000,Builder_Floor
+137,810.0,2,2.0,Lajpat Nagar 2,15500000,Builder_Floor
+138,1500.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+139,900.0,2,2.0,Lajpat Nagar 2,15800000,Builder_Floor
+140,825.0,2,2.0,Lajpat Nagar 2,15000000,Builder_Floor
+141,900.0,2,2.0,Lajpat Nagar 2,13000000,Builder_Floor
+142,875.0,2,2.0,Lajpat Nagar 2,15000000,Builder_Floor
+143,1350.0,3,3.0,Lajpat Nagar 2,25000000,Builder_Floor
+144,750.0,2,2.0,Lajpat Nagar 2,16500000,Builder_Floor
+145,900.0,2,2.0,Lajpat Nagar 2,10300000,Builder_Floor
+146,1350.0,3,3.0,Lajpat Nagar 2,26000000,Builder_Floor
+147,900.0,2,2.0,Lajpat Nagar 2,11000000,Builder_Floor
+148,1800.0,3,3.0,Lajpat Nagar 2,28500000,Builder_Floor
+149,900.0,2,2.0,Lajpat Nagar 2,11000000,Builder_Floor
+150,900.0,2,1.0,Budh Vihar,11000000,Apartment
+151,810.0,3,2.0,Budh Vihar,4500000,Builder_Floor
+153,100.0,3,2.0,Budh Vihar Phase 1,4300000,Builder_Floor
+154,900.0,3,2.0,Budh Vihar,4000000,Builder_Floor
+155,500.0,2,2.0,Budh Vihar Phase 1,1650000,Apartment
+156,450.0,1,1.0,Budh Vihar,2000000,Builder_Floor
+157,75.0,2,2.0,Budh Vihar,3000000,Builder_Floor
+158,270.0,2,1.0,Budh Vihar Phase 1,1400000,Apartment
+159,500.0,2,1.0,Budh Vihar Phase 1,2000000,Builder_Floor
+160,444.0,2,2.0,Budh Vihar Phase 1,2000000,Apartment
+161,400.0,1,1.0,Budh Vihar,2000000,Builder_Floor
+162,729.0,3,4.0,Budh Vihar,2600000,Builder_Floor
+163,4050.0,6,3.0,Budh Vihar Phase 1,5100000,Builder_Floor
+164,2400.0,6,4.0,Budh Vihar Phase 2,6000000,Builder_Floor
+165,450.0,2,2.0,Budh Vihar,4000000,Builder_Floor
+166,405.0,2,3.0,Budh Vihar Phase 2,6200000,Builder_Floor
+167,666.0,1,2.0,Budh Vihar Phase 1,3500000,Builder_Floor
+168,1000.0,2,2.0,Rohini Sector 23,7600000,Apartment
+169,1360.0,4,3.0,Rohini Sector 24,13500000,Builder_Floor
+170,1550.0,4,3.0,Rohini Sector 24,12500000,Builder_Floor
+171,850.0,3,2.0,Rohini Sector 23,6500000,Builder_Floor
+172,2170.0,4,4.0,Rohini Sector 23,22000000,Builder_Floor
+173,720.0,3,2.0,Rohini Sector 23,6000000,Builder_Floor
+174,850.0,3,2.0,Rohini Sector 23,7300000,Builder_Floor
+175,950.0,3,2.0,Rohini Sector 23,7600000,Builder_Floor
+176,2300.0,4,4.0,Rohini Sector 23,20000000,Builder_Floor
+177,1300.0,4,4.0,Rohini Sector 22,15000000,Builder_Floor
+178,1100.0,3,2.0,Rohini Sector 20,6200000,Builder_Floor
+179,1030.0,3,2.0,Rohini Sector 20,6200000,Builder_Floor
+180,350.0,1,1.0,Rohini,2300000,Builder_Floor
+181,750.0,2,2.0,Rohini Sector 24,5000000,Apartment
+182,720.0,2,2.0,Rohini Sector 24,4700000,Apartment
+183,800.0,2,2.0,Rohini Sector 24,5500000,Apartment
+184,350.0,1,1.0,Rohini Sector 24,2000000,Apartment
+185,980.0,3,2.0,Rohini Sector 24,7300000,Apartment
+186,1600.0,4,3.0,Rohini Sector 24,13000000,Apartment
+187,1450.0,3,3.0,Rohini Sector 24,11500000,Apartment
+188,445.0,2,2.0,Rohini Sector 24,2800000,Apartment
+189,380.0,1,1.0,Rohini Sector 24,2200000,Apartment
+190,680.0,2,2.0,Rohini Sector 24,4400000,Apartment
+191,1600.0,3,3.0,Rohini Sector 24,13500000,Apartment
+192,630.0,2,2.0,Rohini Sector 24,4100000,Apartment
+193,1500.0,3,2.0,Rohini Sector 24,12000000,Apartment
+194,550.0,2,2.0,Rohini Sector 24,3500000,Apartment
+195,2500.0,4,3.0,Rohini Sector 24,15000000,Apartment
+196,2800.0,5,4.0,Rohini Sector 24,17500000,Apartment
+197,300.0,1,1.0,Rohini Sector 24,1900000,Apartment
+198,800.0,3,2.0,Rohini Sector 24,5500000,Apartment
+199,1295.0,3,2.0,Rohini Sector 24,10000000,Apartment
+200,700.0,3,2.0,Rohini Sector 24,4700000,Apartment
+201,350.0,1,1.0,Rohini Sector 24,2400000,Builder_Floor
+202,450.0,2,2.0,Rohini Sector 24,3800000,Builder_Floor
+203,2200.0,4,4.0,Rohini Sector 24,23000000,Builder_Floor
+204,2300.0,4,4.0,Rohini Sector 24,24500000,Builder_Floor
+205,1150.0,3,2.0,Rohini Sector 24,10000000,Builder_Floor
+206,800.0,3,2.0,Rohini Sector 24,5500000,Builder_Floor
+207,850.0,3,2.0,Rohini Sector 24,7000000,Builder_Floor
+208,720.0,3,2.0,Rohini Sector 24,6500000,Builder_Floor
+209,4688.0,5,4.0,Patel Nagar,135000000,Apartment
+210,750.0,2,2.0,Rohini Sector 24,5000000,Apartment
+211,3901.0,4,4.0,Patel Nagar,93000000,Apartment
+212,950.0,3,2.0,Uttam Nagar,4370000,Apartment
+213,1000.0,3,2.0,Dwarka Mor,4620000,Apartment
+214,850.0,2,1.0,Dwarka Sector 24,1900000,Apartment
+215,2400.0,4,4.0,Greater Kailash 2,70000000,Apartment
+216,1350.0,3,2.0,Dwarka Sector 24,5130000,Apartment
+217,540.0,2,2.0,Dwarka Mor,3000000,Apartment
+218,1387.0,4,4.0,Dwarka Sector 24,5890000,Apartment
+219,540.0,2,2.0,Uttam Nagar,3300000,Apartment
+220,976.0,2,2.0,Okhla,24900000,Apartment
+221,1050.0,3,2.0,Dwarka Sector 21,3700000,Apartment
+222,2700.0,4,3.0,Greater Kailash 1,60000000,Builder_Floor
+223,1500.0,3,2.0,Dwarka Sector 12,17400000,Apartment
+224,2900.0,5,5.0,Janakpuri Block A3,51000000,Builder_Floor
+225,5025.0,5,6.0,Greater Kailash 2,170000000,Builder_Floor
+226,1000.0,3,2.0,Uttam Nagar,5510000,Builder_Floor
+227,1135.0,3,3.0,Karol Bagh,25000000,Apartment
+228,2306.0,3,3.0,Patel Nagar,57000000,Apartment
+229,850.0,2,2.0,Najafgarh,2940000,Apartment
+230,1200.0,3,3.0,Dwarka Sector 12,15500000,Apartment
+231,1700.0,3,2.0,Dwarka,17200000,Apartment
+232,1800.0,4,3.0,Vasant Vihar,55000000,Builder_Floor
+233,1100.0,2,2.0,Vasant Kunj,15000000,Apartment
+234,22050.0,4,4.0,Greater Kailash 1,51000000,Builder_Floor
+235,1550.0,4,3.0,Rohini Sector 24,13000000,Builder_Floor
+236,1600.0,3,3.0,Greater Kailash 1,30000000,Builder_Floor
+237,700.0,2,2.0,Madangir,2400000,Builder_Floor
+238,45.0,4,3.0,Okhla,5500000,Builder_Floor
+239,3510.0,4,4.0,New Friends Colony,45000000,Builder_Floor
+240,4500.0,4,4.0,New Friends Colony,60000000,Builder_Floor
+241,1800.0,4,4.0,New Friends Colony,65000000,Builder_Floor
+242,6000.0,5,5.0,New Friends Colony,220000000,Builder_Floor
+244,1700.0,3,3.0,New Friends Colony,38500000,Builder_Floor
+245,2500.0,3,3.0,New Friends Colony,50000000,Apartment
+246,4500.0,4,4.0,New Friends Colony,75000000,Builder_Floor
+247,2450.0,4,4.0,New Friends Colony,70000000,Builder_Floor
+248,10350.0,4,7.0,New Friends Colony,160000000,Apartment
+249,4800.0,3,4.0,New Friends Colony,85000000,Builder_Floor
+250,1600.0,3,3.0,New Friends Colony,40000000,Apartment
+251,3500.0,4,4.0,New Friends Colony,90000000,Builder_Floor
+252,2100.0,4,5.0,New Friends Colony,56000000,Builder_Floor
+253,4200.0,5,5.0,New Friends Colony,135500000,Builder_Floor
+254,1500.0,3,3.0,New Friends Colony,60000000,Builder_Floor
+255,8150.0,4,5.0,New Friends Colony,170000000,Builder_Floor
+256,2200.0,4,4.0,New Friends Colony,50000000,Builder_Floor
+257,3500.0,4,5.0,New Friends Colony,58000000,Builder_Floor
+258,2070.0,3,3.0,New Friends Colony,37500000,Builder_Floor
+259,3500.0,3,3.0,New Friends Colony,45000000,Builder_Floor
+260,2000.0,4,4.0,New Friends Colony,70000000,Builder_Floor
+262,2550.0,4,4.0,New Friends Colony,60000000,Builder_Floor
+263,4500.0,4,4.0,New Friends Colony,70000000,Builder_Floor
+264,1400.0,3,3.0,New Friends Colony,50000000,Builder_Floor
+265,2800.0,4,5.0,New Friends Colony,75000000,Builder_Floor
+266,2700.0,4,4.0,New Friends Colony,52500000,Builder_Floor
+267,4500.0,4,4.0,New Friends Colony,55000000,Builder_Floor
+268,7200.0,4,4.0,New Friends Colony,120000000,Builder_Floor
+269,2799.0,4,4.0,Greater Kailash,65000000,Builder_Floor
+270,2650.0,4,4.0,Greater Kailash,75000000,Builder_Floor
+271,2200.0,4,4.0,Greater Kailash,47500000,Builder_Floor
+272,3500.0,5,5.0,Greater Kailash,70000000,Builder_Floor
+273,2200.0,4,4.0,Greater Kailash,47500000,Builder_Floor
+274,2200.0,4,4.0,Greater Kailash,40000000,Builder_Floor
+275,3500.0,4,4.0,Greater Kailash,85000000,Builder_Floor
+276,1440.0,3,3.0,Greater Kailash,26000000,Builder_Floor
+277,3150.0,4,4.0,Greater Kailash,35000000,Builder_Floor
+278,900.0,2,2.0,Greater Kailash,20000000,Builder_Floor
+279,3690.0,4,5.0,Greater Kailash,79000000,Builder_Floor
+280,1200.0,3,2.0,Greater Kailash,17000000,Builder_Floor
+281,4500.0,4,4.0,Greater Kailash,47500000,Builder_Floor
+282,2799.0,4,4.0,Greater Kailash,43000000,Builder_Floor
+283,1350.0,3,3.0,Greater Kailash,26000000,Builder_Floor
+284,1200.0,3,3.0,Greater Kailash,25000000,Builder_Floor
+285,2177.0,4,5.0,Greater Kailash,51000000,Builder_Floor
+286,1500.0,3,3.0,Greater Kailash,40000000,Builder_Floor
+287,1600.0,3,3.0,Greater Kailash,22500000,Builder_Floor
+288,4500.0,4,4.0,Greater Kailash,70000000,Builder_Floor
+289,2150.0,4,4.0,Greater Kailash,45000000,Builder_Floor
+290,2107.0,4,4.0,Greater Kailash,51100000,Apartment
+291,1150.0,3,3.0,Greater Kailash,25500000,Builder_Floor
+292,1240.0,3,3.0,Greater Kailash,26500000,Builder_Floor
+293,1000.0,2,2.0,Greater Kailash,15000000,Builder_Floor
+294,4500.0,4,4.0,Greater Kailash,55000000,Builder_Floor
+295,1150.0,3,3.0,Greater Kailash,26000000,Builder_Floor
+296,2000.0,4,4.0,Greater Kailash,38000000,Builder_Floor
+297,4500.0,4,5.0,Greater Kailash,72500000,Builder_Floor
+298,3000.0,4,5.0,Greater Kailash,65000000,Builder_Floor
+299,700.0,2,2.0,Shahdara,4600000,Builder_Floor
+300,750.0,2,2.0,Shahdara,9200000,Builder_Floor
+301,1350.0,4,3.0,Shahdara,9500000,Apartment
+302,900.0,2,2.0,Shahdara,4500000,Builder_Floor
+303,970.0,3,2.0,Shahdara,6500000,Builder_Floor
+304,1000.0,3,2.0,Shahdara,5650000,Builder_Floor
+305,1425.0,3,3.0,Shahdara,9300000,Builder_Floor
+306,440.0,2,2.0,Shahdara,2700000,Apartment
+307,1017.0,2,2.0,Shahdara,6500000,Builder_Floor
+308,650.0,2,2.0,Shahdara,5800000,Apartment
+309,950.0,3,2.0,Shahdara,5500000,Apartment
+310,810.0,3,2.0,Shahdara,6000000,Builder_Floor
+311,750.0,2,2.0,Shahdara,4500000,Builder_Floor
+312,990.0,2,2.0,Shahdara,4100000,Builder_Floor
+313,800.0,3,2.0,Shahdara,3800000,Builder_Floor
+314,675.0,2,1.0,Shahdara,3300000,Apartment
+315,558.0,2,1.0,Shahdara,2900000,Builder_Floor
+316,445.0,2,1.0,Shahdara,2000000,Builder_Floor
+317,360.0,2,1.0,Shahdara,1550000,Builder_Floor
+318,1350.0,4,3.0,Shahdara,11300000,Builder_Floor
+319,850.0,3,2.0,Shahdara,4500000,Builder_Floor
+320,846.0,2,1.0,Shahdara,3300000,Apartment
+321,1300.0,4,3.0,Shahdara,11500000,Builder_Floor
+322,900.0,3,2.0,Shahdara,6000000,Builder_Floor
+323,1050.0,3,2.0,Shahdara,9000000,Apartment
+324,850.0,2,2.0,Shahdara,4500000,Builder_Floor
+325,1650.0,4,3.0,Shahdara,14000000,Apartment
+326,1150.0,2,2.0,Shahdara,7300000,Apartment
+327,495.1394,1,1.0,Shahdara,1900000,Builder_Floor
+328,1053.0,3,2.0,Shahdara,7000000,Builder_Floor
+329,810.0,3,2.0,Shahdara,6000000,Builder_Floor
+330,750.0,1,2.0,Shahdara,6400000,Builder_Floor
+331,540.0,2,1.0,Shahdara,2700000,Apartment
+332,747.0,2,2.0,Shahdara,6500000,Builder_Floor
+333,720.0,2,1.0,Shahdara,4000000,Builder_Floor
+334,376.7365,1,1.0,Shahdara,3000000,Apartment
+335,1125.0,2,2.0,Shahdara,5000000,Builder_Floor
+336,713.0,2,2.0,Shahdara,6000000,Builder_Floor
+337,360.0,1,1.0,Shahdara,2500000,Builder_Floor
+338,900.0,2,2.0,Shahdara,6500000,Apartment
+339,713.0,3,1.0,Shahdara,8000000,Apartment
+340,504.0,2,1.0,Shahdara,2700000,Builder_Floor
+341,70.0,1,2.0,Shahdara,4500000,Apartment
+342,850.0,3,2.0,Shahdara,5700000,Builder_Floor
+343,2430.0,4,3.0,Shahdara,25000000,Builder_Floor
+344,2475.0,3,3.0,Shahdara,70000000,Builder_Floor
+345,2970.0,7,4.0,Shahdara,26500000,Builder_Floor
+346,2250.0,3,2.0,Shahdara,18500000,Builder_Floor
+347,1500.0,5,3.0,Shahdara,30000000,Builder_Floor
+348,1512.0,2,2.0,Shahdara,22000000,Builder_Floor
+350,2160.0,3,3.0,Shahdara,65000000,Builder_Floor
+351,630.0,3,2.0,Shahdara,22500000,Builder_Floor
+352,324.0,6,3.0,Shahdara,8700000,Builder_Floor
+353,720.0,6,5.0,Shahdara,22000000,Builder_Floor
+354,675.0,4,2.0,Shahdara,18500000,Builder_Floor
+355,700.0,2,1.0,Shahdara,16000000,Builder_Floor
+356,675.0,4,3.0,Shahdara,16000000,Builder_Floor
+357,720.0,4,2.0,Shahdara,9000000,Builder_Floor
+358,850.0,2,2.0,Shahdara,4500000,Builder_Floor
+359,801.0,3,2.0,Laxmi Nagar,6000000,Builder_Floor
+360,450.0,1,2.0,Laxmi Nagar,2700000,Builder_Floor
+361,1000.0,3,2.0,Laxmi Nagar,6500000,Apartment
+362,990.0,3,2.0,Laxmi Nagar,4000000,Apartment
+363,420.0,2,1.0,Laxmi Nagar,2600000,Builder_Floor
+364,450.0,2,1.0,Laxmi Nagar,3500000,Builder_Floor
+365,1000.0,2,2.0,Laxmi Nagar,7500000,Apartment
+366,900.0,3,2.0,Laxmi Nagar,7000000,Builder_Floor
+367,800.0,3,2.0,Laxmi Nagar,4500000,Builder_Floor
+368,720.0,3,3.0,Laxmi Nagar,5500000,Builder_Floor
+369,450.0,2,1.0,Laxmi Nagar,2700000,Builder_Floor
+370,675.0,2,2.0,Laxmi Nagar,2400000,Builder_Floor
+371,1700.0,4,3.0,Laxmi Nagar,11500000,Builder_Floor
+372,550.0,2,2.0,Laxmi Nagar,3600000,Builder_Floor
+373,387.0,1,2.0,Laxmi Nagar,1700000,Builder_Floor
+374,450.0,2,1.0,Laxmi Nagar,2500000,Apartment
+375,900.0,4,2.0,Laxmi Nagar,6600000,Builder_Floor
+376,500.0,2,1.0,Laxmi Nagar,3700000,Builder_Floor
+377,441.0,2,1.0,Laxmi Nagar,3500000,Apartment
+378,800.0,3,2.0,Laxmi Nagar,5400000,Builder_Floor
+381,715.0,2,2.0,Laxmi Nagar,5600000,Apartment
+382,600.0,2,2.0,Laxmi Nagar,7000000,Builder_Floor
+383,540.0,2,1.0,Laxmi Nagar,3500000,Builder_Floor
+384,312.0,4,4.0,Laxmi Nagar,35000000,Apartment
+385,810.0,3,2.0,Laxmi Nagar,9000000,Builder_Floor
+386,270.0,1,1.0,Laxmi Nagar,2300000,Builder_Floor
+387,900.0,3,2.0,Laxmi Nagar,6000000,Builder_Floor
+388,1000.0,3,2.0,Laxmi Nagar,6000000,Apartment
+389,540.0,2,2.0,Uttam Nagar,2650000,Builder_Floor
+390,950.0,3,2.0,Uttam Nagar,4370000,Apartment
+391,1000.0,3,2.0,Dwarka Mor,4620000,Apartment
+392,540.0,2,2.0,Dwarka Mor,3000000,Apartment
+393,540.0,2,2.0,Uttam Nagar,3300000,Apartment
+394,1000.0,3,2.0,Uttam Nagar,5510000,Builder_Floor
+395,500.0,2,2.0,Dwarka Mor,3200000,Builder_Floor
+396,540.0,2,2.0,Uttam Nagar West,2600000,Builder_Floor
+397,780.0,3,2.0,Uttam Nagar,4000000,Builder_Floor
+398,450.0,2,1.0,Uttam Nagar West,1850000,Builder_Floor
+399,360.0,1,1.0,Uttam Nagar,1700000,Builder_Floor
+400,900.0,3,2.0,Dwarka Mor,2800000,Builder_Floor
+401,495.0,2,2.0,Uttam Nagar West,2150000,Builder_Floor
+402,1200.0,4,3.0,Dwarka Mor,6800000,Builder_Floor
+403,1000.0,3,2.0,Uttam Nagar,6200000,Builder_Floor
+404,620.0,2,2.0,Uttam Nagar,3100000,Builder_Floor
+405,680.0,3,2.0,Dwarka Mor,3400000,Builder_Floor
+406,805.0,2,2.0,Uttam Nagar,4000000,Builder_Floor
+407,729.0,2,2.0,Razapur Khurd,4800000,Builder_Floor
+408,540.0,2,2.0,Uttam Nagar,2500000,Builder_Floor
+409,360.0,1,1.0,Uttam Nagar,2000000,Builder_Floor
+410,550.0,2,2.0,Uttam Nagar West,1900000,Builder_Floor
+411,1001.0,3,2.0,Dwarka Mor,5800000,Builder_Floor
+412,450.0,2,2.0,Dwarka Mor,2900000,Builder_Floor
+413,550.0,2,1.0,Uttam Nagar West,2000000,Builder_Floor
+415,675.0,2,1.0,Uttam Nagar,2900000,Builder_Floor
+416,585.0,2,2.0,Uttam Nagar,3200000,Builder_Floor
+417,810.0,3,2.0,Uttam Nagar,5400000,Builder_Floor
+418,765.0,3,2.0,Dwarka Mor,3800000,Builder_Floor
+419,4688.0,5,4.0,Patel Nagar,135000000,Apartment
+420,3901.0,4,4.0,Patel Nagar,93000000,Apartment
+421,70.0,2,3.0,Patel Nagar,8200000,Builder_Floor
+422,800.0,3,2.0,Patel Nagar West,8000000,Builder_Floor
+423,900.0,3,2.0,Patel Nagar West,9500000,Builder_Floor
+424,1680.0,4,5.0,Patel Nagar West,20000000,Builder_Floor
+425,900.0,2,2.0,Patel Nagar West,7400000,Builder_Floor
+426,2000.0,3,3.0,Patel Nagar,37500000,Apartment
+427,2000.0,4,4.0,Patel Nagar West,15000000,Builder_Floor
+428,1900.0,3,3.0,Patel Nagar,55300000,Apartment
+429,1530.0,3,3.0,Patel Nagar,26500000,Builder_Floor
+430,100.0,3,2.0,Patel Nagar,16000000,Apartment
+431,900.0,3,2.0,Patel Nagar West,10400000,Builder_Floor
+432,270.0,1,1.0,Patel Nagar West,1700000,Builder_Floor
+433,950.0,2,2.0,Patel Nagar West,8000000,Builder_Floor
+434,1800.0,3,3.0,Patel Nagar,27000000,Builder_Floor
+435,1500.0,3,3.0,Patel Nagar West,19500000,Builder_Floor
+436,1800.0,3,3.0,Patel Nagar,50000000,Apartment
+437,1800.0,3,3.0,Patel Nagar West,21100000,Builder_Floor
+438,2306.0,3,3.0,Patel Nagar,57000000,Apartment
+439,850.0,2,3.0,Patel Nagar West,5900000,Builder_Floor
+440,140.0,3,2.0,Patel Nagar,12000000,Builder_Floor
+441,900.0,3,2.0,Patel Nagar West,12000000,Builder_Floor
+442,1800.0,3,3.0,Patel Nagar West,24000000,Apartment
+443,200.0,1,1.0,Patel Nagar,7000000,Apartment
+444,1782.0,3,3.0,Patel Nagar,15000000,Apartment
+445,900.0,2,2.0,Patel Nagar,1500000,Builder_Floor
+446,405.0,2,1.0,Patel Nagar West,3950000,Apartment
+447,1500.0,3,3.0,Patel Nagar West,12500000,Builder_Floor
+448,66.0,3,1.0,Patel Nagar,1600000,Apartment
+449,2000.0,4,4.0,Vasant Kunj Sector B,36500000,Apartment
+451,1100.0,2,2.0,Vasant Kunj,15000000,Apartment
+452,1400.0,3,2.0,Vasant Kunj,25000000,Apartment
+453,1600.0,3,2.0,Vasant Kunj,18500000,Apartment
+454,1600.0,4,3.0,Vasant Kunj Sector B,23500000,Apartment
+455,600.0,1,1.0,Vasant Kunj,8000000,Apartment
+456,1600.0,3,2.0,Vasant Kunj Sector D,23000000,Apartment
+457,2000.0,3,3.0,Vasant Kunj,31000000,Apartment
+458,650.0,1,2.0,Vasant Kunj,7400000,Apartment
+459,1100.0,2,2.0,Vasant Kunj,15500000,Apartment
+460,1075.0,2,2.0,Vasant Kunj,12000000,Apartment
+461,1450.0,3,2.0,Vasant Kunj Sector D,23500000,Apartment
+462,1200.0,3,2.0,Vasant Kunj Sector A,25000000,Apartment
+463,600.0,1,2.0,Vasant Kunj,7000000,Apartment
+464,1000.0,2,2.0,Vasant Kunj,17500000,Apartment
+465,1600.0,3,2.0,Vasant Kunj,25000000,Apartment
+466,1750.0,4,4.0,Vasant Kunj Sector C,29000000,Apartment
+467,1300.0,3,3.0,Vasant Kunj,21900000,Apartment
+468,550.0,1,2.0,Vasant Kunj Sector D,7500000,Apartment
+469,2200.0,4,3.0,Vasant Kunj Sector C,23500000,Apartment
+470,1100.0,2,2.0,Vasant Kunj Sector C,24000000,Apartment
+471,1700.0,3,2.0,Vasant Kunj,31000000,Builder_Floor
+472,1100.0,2,2.0,Vasant Kunj,16500000,Apartment
+473,1000.0,2,2.0,Vasant Kunj,5000000,Builder_Floor
+474,1350.0,3,2.0,Vasant Kunj Sector D,24000000,Apartment
+475,1184.0,2,2.0,Vasant Kunj,17000000,Apartment
+476,2000.0,4,2.0,Vasant Kunj Sector B,40000000,Apartment
+477,3500.0,4,4.0,Vasant Kunj,22500000,Builder_Floor
+478,900.0,3,3.0,Vasant Kunj,20000000,Builder_Floor
+479,4688.0,5,4.0,Patel Nagar,135000000,Apartment
+480,750.0,2,2.0,Rohini Sector 24,5000000,Apartment
+481,3901.0,4,4.0,Patel Nagar,93000000,Apartment
+482,950.0,3,2.0,Uttam Nagar,4370000,Apartment
+483,1000.0,3,2.0,Dwarka Mor,4620000,Apartment
+484,850.0,2,1.0,Dwarka Sector 24,1900000,Apartment
+485,2400.0,4,4.0,Greater Kailash 2,70000000,Apartment
+486,1350.0,3,2.0,Dwarka Sector 24,5130000,Apartment
+487,540.0,2,2.0,Dwarka Mor,3000000,Apartment
+488,1387.0,4,4.0,Dwarka Sector 24,5890000,Apartment
+489,540.0,2,2.0,Uttam Nagar,3300000,Apartment
+490,976.0,2,2.0,Okhla,24900000,Apartment
+491,1050.0,3,2.0,Dwarka Sector 21,3700000,Apartment
+492,2700.0,4,3.0,Greater Kailash 1,60000000,Builder_Floor
+493,1500.0,3,2.0,Dwarka Sector 12,17400000,Apartment
+494,2900.0,5,5.0,Janakpuri Block A3,51000000,Builder_Floor
+495,5025.0,5,6.0,Greater Kailash 2,170000000,Builder_Floor
+496,1000.0,3,2.0,Uttam Nagar,5510000,Builder_Floor
+497,1135.0,3,3.0,Karol Bagh,25000000,Apartment
+498,2306.0,3,3.0,Patel Nagar,57000000,Apartment
+499,850.0,2,2.0,Najafgarh,2940000,Apartment
+500,1200.0,3,3.0,Dwarka Sector 12,15500000,Apartment
+501,1700.0,3,2.0,Dwarka,17200000,Apartment
+502,1800.0,4,3.0,Vasant Vihar,55000000,Builder_Floor
+503,1100.0,2,2.0,Vasant Kunj,15000000,Apartment
+504,22050.0,4,4.0,Greater Kailash 1,51000000,Builder_Floor
+505,1550.0,4,3.0,Rohini Sector 24,13000000,Builder_Floor
+506,1600.0,3,3.0,Greater Kailash 1,30000000,Builder_Floor
+507,700.0,2,2.0,Madangir,2400000,Builder_Floor
+508,45.0,4,3.0,Okhla,5500000,Builder_Floor
+513,1250.0,2,1.0,Shahdara,7500000,Apartment
+514,504.0,3,1.0,Shahdara,3600000,Apartment
+515,65.0,3,2.0,Shahdara,35000000,Apartment
+516,450.0,2,1.0,Shahdara,6000000,Apartment
+517,1800.0,4,2.0,Shahdara,17500000,Builder_Floor
+518,1800.0,4,3.0,Shahdara,35000000,Builder_Floor
+519,1530.0,5,2.0,Shahdara,10200000,Builder_Floor
+520,1750.0,4,4.0,Vasant Kunj Sector C,29000000,Apartment
+521,2210.0,4,3.0,Okhla,41000000,Builder_Floor
+522,760.0,3,2.0,Geeta Colony,6000000,Builder_Floor
+523,400.0,2,1.0,Krishna Nagar Block A,2500000,Apartment
+524,380.0,1,1.0,Geeta Colony,2200000,Builder_Floor
+525,904.1676,2,2.0,Khairatabad,21500000,Apartment
+526,900.0,4,1.0,Shahdara,15000000,Apartment
+527,810.0,5,6.0,Geeta Colony,28900000,Apartment
+528,100.0,3,2.0,Geeta Colony,5500000,Builder_Floor
+529,50.0,2,1.0,Shahdara,1950000,Apartment
+530,58.0,2,1.0,Geeta Colony,3800000,Apartment
+531,900.0,2,1.0,Chandni Chowk,6200000,Builder_Floor
+532,1650.0,4,3.0,Shahdara,14000000,Apartment
+533,1000.0,2,2.0,Laxmi Nagar,7500000,Apartment
+535,700.0,2,2.0,Shahdara,2500000,Apartment
+536,990.0,3,2.0,Laxmi Nagar,4000000,Apartment
+537,450.0,2,1.0,Laxmi Nagar,3500000,Builder_Floor
+538,1000.0,2,2.0,Laxmi Nagar,5000000,Apartment
+539,1700.0,4,3.0,Saket,29500000,Builder_Floor
+540,1350.0,3,2.0,Saket,19000000,Builder_Floor
+541,2100.0,4,3.0,Saket,25500000,Apartment
+542,2600.0,4,4.0,Saket,75000000,Builder_Floor
+543,3000.0,4,5.0,Saket,75000000,Builder_Floor
+544,1450.0,3,3.0,Saket,34000000,Builder_Floor
+545,2050.0,4,4.0,Saket,47500000,Builder_Floor
+546,3000.0,4,5.0,Saket,75000000,Builder_Floor
+547,1800.0,3,3.0,Saket,23000000,Apartment
+548,900.0,3,2.0,Saket,24000000,Apartment
+549,1500.0,3,2.0,Saket,21500000,Apartment
+550,1500.0,3,2.0,Saket,28500000,Builder_Floor
+551,1800.0,4,4.0,Saket,12500000,Builder_Floor
+552,1674.0,3,3.0,Saket,45000000,Builder_Floor
+553,2025.0,4,3.0,Saket,30500000,Builder_Floor
+554,1300.0,3,3.0,Saket,22500000,Builder_Floor
+555,990.0,3,3.0,Saket,28000000,Apartment
+556,2100.0,3,4.0,Saket,25000000,Builder_Floor
+557,2250.0,4,4.0,Saket,33700000,Builder_Floor
+558,1500.0,3,3.0,Saket,27000000,Builder_Floor
+559,2700.0,4,4.0,Saket,43500000,Builder_Floor
+560,1700.0,3,3.0,Saket,29000000,Builder_Floor
+561,1700.0,3,3.0,Saket,30000000,Builder_Floor
+562,2050.0,4,4.0,Saket,52100000,Apartment
+563,1800.0,3,3.0,Saket,32500000,Builder_Floor
+564,1500.0,3,2.0,Saket,20500000,Apartment
+565,2000.0,4,3.0,Saket,25000000,Apartment
+566,1500.0,3,3.0,Saket,30000000,Builder_Floor
+567,24300.0,4,5.0,Saket,51000000,Builder_Floor
+568,2475.0,4,4.0,Saket,31000000,Builder_Floor
+569,1800.0,3,3.0,Safdarjung Enclave,37500000,Builder_Floor
+570,1300.0,3,3.0,Safdarjung Enclave,32500000,Builder_Floor
+571,1500.0,3,3.0,Safdarjung Enclave,37500000,Builder_Floor
+572,2100.0,4,4.0,Safdarjung Enclave,55000000,Builder_Floor
+573,1800.0,4,4.0,Safdarjung Enclave,87500000,Builder_Floor
+574,1100.0,2,2.0,Safdarjung Enclave,16300000,Apartment
+575,2035.0,4,4.0,Safdarjung Enclave,65000000,Builder_Floor
+577,1550.0,3,3.0,Safdarjung Enclave,38000000,Builder_Floor
+578,700.0,2,2.0,Safdarjung Enclave,15000000,Builder_Floor
+579,150.0,2,1.0,Safdarjung Enclave,2000000,Apartment
+580,540.0,1,1.0,Safdarjung Enclave,3000000,Builder_Floor
+581,810.0,2,2.0,Krishna Nagar-Safdarjung Enclave,8500000,Builder_Floor
+583,1600.0,3,3.0,Safdarjung Enclave,22500000,Builder_Floor
+584,4000.0,4,4.0,Safdarjung Enclave,72500000,Builder_Floor
+585,5500.0,6,7.0,Safdarjung Enclave,160000000,Apartment
+586,900.0,3,3.0,Krishna Nagar-Safdarjung Enclave,12500000,Builder_Floor
+587,972.0,2,2.0,Safdarjung Enclave,17000000,Apartment
+588,4150.0,4,4.0,Safdarjung Enclave,82500000,Builder_Floor
+589,2250.0,4,5.0,Safdarjung Enclave,55000000,Builder_Floor
+590,1650.0,3,3.0,Safdarjung Enclave,35000000,Builder_Floor
+592,600.0,2,2.0,Safdarjung Enclave,4700000,Builder_Floor
+593,1700.0,4,5.0,Safdarjung Enclave,52500000,Builder_Floor
+594,2250.0,4,4.0,Safdarjung Enclave,80000000,Builder_Floor
+595,880.0,3,2.0,Safdarjung Enclave,11000000,Builder_Floor
+596,4200.0,4,5.0,Safdarjung Enclave,74000000,Builder_Floor
+599,1620.0,3,3.0,Paschim Vihar,26000000,Builder_Floor
+600,1078.0,3,2.0,Paschim Vihar,15500000,Builder_Floor
+601,1710.0,3,3.0,Paschim Vihar,22000000,Builder_Floor
+602,1150.0,3,3.0,Paschim Vihar Block B2,21000000,Builder_Floor
+603,450.0,2,2.0,Paschim Vihar,5000000,Builder_Floor
+604,1818.0,3,3.0,Paschim Vihar,22000000,Builder_Floor
+605,1800.0,3,2.0,Paschim Vihar Block B4,26500000,Builder_Floor
+608,900.0,2,3.0,Paschim Vihar,8500000,Apartment
+609,807.2925,2,2.0,Paschim Vihar,8600000,Apartment
+610,2700.0,4,3.0,Paschim Vihar,42500000,Builder_Floor
+611,1100.0,3,2.0,Paschim Vihar,13100000,Apartment
+612,585.0,2,2.0,Paschim Vihar,7000000,Apartment
+613,2152.78,3,3.0,Paschim Vihar,30000000,Builder_Floor
+614,960.0,2,2.0,Paschim Vihar Block B1,13000000,Apartment
+615,1800.0,4,3.0,Paschim Vihar Block A2,23100000,Builder_Floor
+616,1100.0,3,2.0,Paschim Vihar,16000000,Apartment
+617,900.0,2,2.0,Paschim Vihar,12500000,Builder_Floor
+618,1620.0,3,3.0,Paschim Vihar,24500000,Builder_Floor
+619,378.0,1,1.0,Paschim Vihar,3200000,Apartment
+620,800.0,3,2.0,Paschim Vihar,6300000,Apartment
+621,1350.0,3,3.0,Paschim Vihar,15000000,Builder_Floor
+623,1580.0,3,2.0,Paschim Vihar,21000000,Apartment
+624,820.0,2,3.0,Paschim Vihar,7500000,Apartment
+625,594.0,2,1.0,Paschim Vihar Block A2,6500000,Apartment
+626,14220.0,3,3.0,Paschim Vihar Block B4,27500000,Builder_Floor
+627,800.0,3,2.0,Paschim Vihar,12000000,Builder_Floor
+628,1500.0,3,2.0,Paschim Vihar,18000000,Apartment
+629,1600.0,3,3.0,Dwarka,15600000,Apartment
+630,1650.0,3,3.0,Dwarka,15500000,Apartment
+631,1600.0,3,3.0,Dwarka,15200000,Apartment
+632,1900.0,3,3.0,Dwarka,25000000,Apartment
+633,1400.0,3,2.0,Dwarka,15000000,Apartment
+634,1550.0,3,2.0,Dwarka 2500+ Buyers Served,15800000,Apartment
+635,2000.0,4,3.0,Dwarka,31500000,Apartment
+636,1500.0,3,3.0,Dwarka,14000000,Apartment
+637,1550.0,3,2.0,Dwarka,13200000,Apartment
+638,1600.0,3,2.0,Dwarka,15800000,Apartment
+639,1600.0,3,3.0,Dwarka,16200000,Apartment
+640,1800.0,3,2.0,Dwarka,15500000,Apartment
+641,1470.0,3,2.0,Dwarka,14500000,Apartment
+642,1500.0,3,2.0,Dwarka,14900000,Apartment
+643,1750.0,3,3.0,Dwarka,17200000,Apartment
+644,1650.0,3,3.0,Dwarka,18000000,Apartment
+645,1850.0,3,2.0,Dwarka,15500000,Apartment
+646,1480.0,3,2.0,Dwarka,15800000,Apartment
+647,1214.0,2,2.0,Dwarka,12600000,Apartment
+648,1380.0,3,2.0,Dwarka,15000000,Apartment
+649,1600.0,4,2.0,Dwarka,19500000,Apartment
+650,1585.0,3,3.0,Dwarka,16600000,Apartment
+651,1700.0,3,3.0,Dwarka,17200000,Apartment
+652,1200.0,2,2.0,Dwarka,13000000,Apartment
+653,1800.0,4,3.0,Dwarka,16500000,Apartment
+654,1000.0,2,2.0,Dwarka,10700000,Apartment
+655,1500.0,3,2.0,Dwarka,16200000,Apartment
+656,1700.0,3,2.0,Dwarka,16500000,Apartment
+657,1750.0,3,2.0,Dwarka,14900000,Apartment
+658,2700.0,4,3.0,Dwarka,27500000,Apartment
+659,3050.0,5,6.0,Commonwealth Games Village 2010,62500000,Apartment
+660,3405.0,5,5.0,Commonwealth Games Village 2010,70000000,Apartment
+661,1500.0,3,3.0,Commonwealth Games Village 2010,35500000,Apartment
+662,2105.0,3,3.0,Commonwealth Games Village 2010,42100000,Apartment
+663,2500.0,4,5.0,Akshardham Temple,42500000,Apartment
+664,2090.0,3,4.0,Commonwealth Games Village 2010,44000000,Apartment
+665,2525.0,4,5.0,Commonwealth Games Village 2010,43200000,Apartment
+666,2500.0,4,4.0,Commonwealth Games Village 2010,52500000,Apartment
+667,2100.0,3,4.0,Commonwealth Games Village 2010,34300000,Apartment
+668,2022.0,3,3.0,Akshardham Temple,38000000,Apartment
+669,2650.0,4,5.0,Commonwealth Games Village 2010,52500000,Apartment
+670,1850.0,3,3.0,Commonwealth Games Village 2010,37500000,Apartment
+671,2100.0,3,3.0,Commonwealth Games Village 2010,37000000,Apartment
+672,1700.0,3,4.0,Commonwealth Games Village 2010,40000000,Apartment
+673,2105.0,3,3.0,Commonwealth Games Village 2010,36200000,Apartment
+674,1250.0,2,3.0,Commonwealth Games Village 2010,29000000,Apartment
+675,2552.0,4,5.0,Commonwealth Games Village 2010,42500000,Apartment
+676,3112.0,5,6.0,Commonwealth Games Village 2010,60000000,Apartment
+677,2125.0,3,3.0,Commonwealth Games Village 2010,36500000,Apartment
+678,2065.0,3,4.0,Commonwealth Games Village 2010,42500000,Apartment
+679,3405.0,5,4.0,Commonwealth Games Village 2010,71500000,Apartment
+680,3050.0,5,5.0,Commonwealth Games Village 2010,65000000,Apartment
+681,2300.0,5,6.0,Commonwealth Games Village 2010,58000000,Apartment
+682,1455.0,2,2.0,Commonwealth Games Village 2010,27500000,Apartment
+683,3400.0,5,5.0,Commonwealth Games Village 2010,70000000,Apartment
+684,3100.0,5,5.0,Commonwealth Games Village 2010,65000000,Apartment
+685,1400.0,2,3.0,Commonwealth Games Village 2010,28600000,Apartment
+686,2126.0,3,3.0,Commonwealth Games Village 2010,39000000,Apartment
+687,1815.0,3,3.0,Commonwealth Games Village 2010,32500000,Apartment
+688,1700.0,3,3.0,Commonwealth Games Village 2010,34000000,Apartment
+689,700.0,2,2.0,Alaknanda,16500000,Apartment
+690,980.0,2,2.0,Alaknanda,13800000,Apartment
+691,1350.0,3,3.0,Alaknanda,21000000,Apartment
+692,1800.0,3,3.0,Alaknanda,22500000,Apartment
+693,968.751,2,2.0,Alaknanda,15000000,Apartment
+694,1250.0,3,3.0,Alaknanda,20000000,Apartment
+695,1800.0,3,3.0,Alaknanda,20000000,Apartment
+696,1400.0,3,2.0,Alaknanda,26000000,Builder_Floor
+697,1000.0,3,3.0,Alaknanda,19500000,Apartment
+698,1800.0,4,2.0,Alaknanda,21500000,Apartment
+699,1500.0,3,3.0,Alaknanda,26500000,Apartment
+700,1600.0,3,3.0,Alaknanda,20000000,Apartment
+702,1400.0,3,2.0,Alaknanda,19000000,Apartment
+703,2700.0,4,4.0,Greater Kailash 4 Nri Colony,36500000,Builder_Floor
+704,1100.0,2,2.0,Alaknanda,15000000,Apartment
+705,1200.0,2,2.0,Alaknanda,17500000,Apartment
+706,1400.0,2,2.0,Alaknanda,14000000,Apartment
+707,1500.0,3,3.0,Alaknanda,21000000,Apartment
+708,1320.0,3,2.0,Alaknanda,15600000,Apartment
+709,1300.0,3,3.0,Alaknanda,19000000,Apartment
+710,1150.0,2,2.0,Alaknanda,16500000,Apartment
+711,1440.0,3,3.0,Alaknanda,19000000,Apartment
+712,1400.0,2,2.0,Alaknanda,16500000,Apartment
+713,450.0,1,1.0,Alaknanda,3000000,Builder_Floor
+714,1300.0,2,2.0,Alaknanda,15000000,Apartment
+715,1200.0,2,2.0,Alaknanda,14300000,Apartment
+716,1300.0,3,2.0,Alaknanda,18500000,Apartment
+718,1400.0,3,3.0,Alaknanda,19000000,Apartment
+720,1600.0,4,2.0,Mathura Road,15800000,Apartment
+721,1200.0,10,4.0,Mathura Road,17000000,Apartment
+722,1600.0,4,2.0,Mathura Road,15500000,Apartment
+723,1250.0,3,2.0,Mathura Road,16000000,Apartment
+724,950.0,2,2.0,Mathura Road,12900000,Apartment
+725,1200.0,3,3.0,Mathura Road,13500000,Apartment
+726,1400.0,4,2.0,Mathura Road,17800000,Apartment
+727,950.0,2,2.0,Mathura Road,13200000,Apartment
+728,1350.0,3,3.0,Mathura Road,14000000,Apartment
+729,1550.0,4,2.0,Mathura Road,17500000,Apartment
+730,1300.0,3,2.0,Mathura Road,17000000,Apartment
+731,1000.0,2,2.0,Sarita Vihar Pocket K,13000000,Apartment
+732,1500.0,3,3.0,Sarita Vihar Pocket K,17000000,Apartment
+733,950.0,2,2.0,Mathura Road,12700000,Apartment
+734,1200.0,3,2.0,Mathura Road,13500000,Apartment
+735,1400.0,4,2.0,Mathura Road,17400000,Apartment
+736,1500.0,4,2.0,Mathura Road,17800000,Apartment
+737,1050.0,2,2.0,Mathura Road,12700000,Apartment
+738,1550.0,4,2.0,Mathura Road,16200000,Apartment
+739,950.0,2,2.0,Mathura Road,11100000,Apartment
+740,1150.0,2,2.0,Mathura Road,13600000,Apartment
+741,1150.0,2,2.0,Sarita Vihar Pocket K,13100000,Apartment
+742,1150.0,2,2.0,Mathura Road,12500000,Apartment
+743,1500.0,3,2.0,Mathura Road,13600000,Apartment
+744,1800.0,4,4.0,Ring Road,12000000,Apartment
+745,1300.0,3,3.0,Ring Road,20000000,Apartment
+746,1150.0,2,2.0,Sarita Vihar Pocket B,13500000,Apartment
+747,1500.0,3,2.0,Sarita Vihar Pocket F,14000000,Apartment
+749,900.0,3,2.0,Sultanpur,9000000,Builder_Floor
+750,1150.0,3,2.0,Sultanpur,6300000,Builder_Floor
+751,1000.0,3,3.0,Sultanpur Extension,5500000,Apartment
+752,450.0,1,1.0,Sultanpur,2350000,Apartment
+753,1350.0,3,3.0,Sultanpur,8500000,Apartment
+754,445.0,1,2.0,Sultanpur Extension,1650000,Apartment
+755,1200.0,2,2.0,Sultanpur,10000000,Apartment
+756,50.0,1,1.0,Manglapuri,1500000,Builder_Floor
+758,700.0,2,2.0,Sultanpur Extension,2600000,Builder_Floor
+759,500.0,1,1.0,Sultanpur,2350000,Builder_Floor
+760,540.0,1,1.0,Sultanpur Extension,2350000,Apartment
+761,450.0,1,1.0,Sultanpur,2000000,Builder_Floor
+762,800.0,2,2.0,Sultanpur,5000000,Builder_Floor
+763,700.0,2,2.0,Sultanpur,3500000,Builder_Floor
+764,750.0,2,2.0,Sultanpur,4500000,Builder_Floor
+765,750.0,2,2.0,Sultanpur,4000000,Builder_Floor
+766,1600.0,3,3.0,Sultanpur,10800000,Builder_Floor
+767,1000.0,3,2.0,Sultanpur,10000000,Builder_Floor
+768,1600.0,3,3.0,Sultanpur,10800000,Builder_Floor
+769,900.0,3,2.0,Sultanpur,9000000,Builder_Floor
+770,1700.0,3,3.0,Sultanpur,8500000,Apartment
+771,1100.0,3,2.0,Sultanpur,6000000,Builder_Floor
+772,1000.0,3,3.0,Sultanpur,5500000,Apartment
+773,1000.0,3,2.0,Sultanpur,7000000,Builder_Floor
+774,1100.0,3,2.0,Sultanpur,6000000,Apartment
+775,765.0,3,2.0,Sultanpur,3700000,Builder_Floor
+776,900.0,2,2.0,Manglapuri,3100000,Builder_Floor
+777,600.0,2,2.0,Sultanpur,4500000,Apartment
+778,360.0,1,1.0,Manglapuri,1500000,Builder_Floor
+779,950.0,3,2.0,Chhattarpur,7090000,Builder_Floor
+781,1305.0,4,3.0,Chhattarpur,5500000,Builder_Floor
+782,1800.0,3,4.0,Chhattarpur,63000000,Apartment
+783,950.0,3,2.0,Chhattarpur,6990000,Builder_Floor
+784,800.0,2,2.0,Chhattarpur,4400000,Apartment
+785,1800.0,4,4.0,Chhattarpur Enclave Phase2,12500000,Builder_Floor
+786,800.0,2,2.0,Chhattarpur,3000000,Builder_Floor
+787,675.0,2,2.0,Chhattarpur,2800000,Builder_Floor
+788,1175.0,3,3.0,Chhattarpur,5000000,Builder_Floor
+789,1500.0,3,3.0,Chhattarpur,6000000,Builder_Floor
+790,810.0,2,2.0,Chhattarpur,4500000,Apartment
+791,630.0,2,2.0,Chhattarpur Enclave Phase2,2800000,Apartment
+792,650.0,2,2.0,Chhattarpur,2500000,Builder_Floor
+793,1800.0,4,4.0,Chhattarpur Enclave Phase2,8500000,Builder_Floor
+794,725.0,2,2.0,Chhattarpur,3000000,Apartment
+795,900.0,3,2.0,Chhattarpur,4900000,Builder_Floor
+796,750.0,2,2.0,Chhattarpur,3500000,Builder_Floor
+797,700.0,2,2.0,Chhattarpur Enclave Phase2,3000000,Builder_Floor
+798,950.0,3,2.0,Chhattarpur,7020000,Builder_Floor
+799,1600.0,3,4.0,Chhattarpur,60000000,Apartment
+800,900.0,2,2.0,Chhattarpur,3500000,Builder_Floor
+801,1500.0,3,3.0,Chhattarpur,7000000,Builder_Floor
+802,500.0,2,1.0,Chhattarpur Enclave Phase2,7000000,Apartment
+803,1035.0,3,3.0,Chhattarpur Enclave Phase2,4500000,Builder_Floor
+804,825.0,3,2.0,Chhattarpur,5990000,Builder_Floor
+805,1300.0,3,3.0,Chhattarpur,4400000,Builder_Floor
+806,765.0,2,2.0,Chhattarpur,2500000,Builder_Floor
+807,580.0,1,1.0,Chhattarpur Enclave Phase2,1600000,Builder_Floor
+808,1750.0,3,3.0,Chhattarpur Enclave Phase2,6500000,Builder_Floor
+809,650.0,2,2.0,Mehrauli,2750000,Apartment
+810,405.0,1,1.0,Mehrauli,1500000,Apartment
+811,675.0,2,1.0,Mehrauli,2200000,Builder_Floor
+812,850.0,2,2.0,Mehrauli,2800000,Apartment
+813,800.0,3,3.0,Mehrauli,4500000,Apartment
+814,405.0,1,1.0,Mehrauli,1800000,Apartment
+815,1350.0,3,3.0,Mehrauli,8500000,Builder_Floor
+816,1350.0,3,3.0,Mehrauli,8500000,Apartment
+817,450.0,1,1.0,Mehrauli,1700000,Builder_Floor
+819,1050.0,3,2.0,Mehrauli,5600000,Builder_Floor
+820,1675.0,4,3.0,Mehrauli,13500000,Builder_Floor
+821,1250.0,3,3.0,Mehrauli,8500000,Builder_Floor
+822,1080.0,3,3.0,Mehrauli,6000000,Apartment
+823,1170.0,3,3.0,Mehrauli,7200000,Builder_Floor
+825,1500.0,3,3.0,Mehrauli,8400000,Apartment
+826,1350.0,3,3.0,Mehrauli,8500000,Apartment
+827,855.0,2,2.0,Mehrauli,4000000,Builder_Floor
+828,540.0,1,1.0,Mehrauli,1700000,Builder_Floor
+829,1044.0983,3,2.0,Mehrauli,6000000,Builder_Floor
+830,405.0,1,1.0,Mehrauli,1600000,Apartment
+831,500.0,1,2.0,Mehrauli,2100000,Apartment
+832,450.0,1,1.0,Mehrauli,1700000,Apartment
+833,405.0,1,1.0,Mehrauli,1500000,Apartment
+834,405.0,1,1.0,Mehrauli,1200000,Builder_Floor
+835,450.0,1,1.0,Mehrauli,1650000,Apartment
+836,173.0,2,2.0,Mehrauli,3500000,Builder_Floor
+837,1100.0,3,2.0,Mehrauli,8500000,Builder_Floor
+838,600.0,2,2.0,Mehrauli,3200000,Builder_Floor
+839,800.0,3,2.0,Mahavir Enclave,4400000,Builder_Floor
+840,990.0,4,3.0,Mahavir Enclave Part 1,7200000,Builder_Floor
+841,1100.0,3,2.0,Mahavir Enclave Part 1,7500000,Builder_Floor
+842,1100.0,3,2.0,Mahavir Enclave,6500000,Apartment
+843,527.0,2,2.0,Mahavir Enclave Part 1,3500000,Builder_Floor
+845,1000.0,3,2.0,Mahavir Enclave Part 1,6200000,Builder_Floor
+846,450.0,1,1.0,Mahavir Enclave Part 1,2500000,Builder_Floor
+847,600.0,2,2.0,Mahavir Enclave,3000000,Apartment
+848,950.0,3,2.0,Mahavir Enclave Part 1,6000000,Builder_Floor
+849,855.0,3,2.0,Mahavir Enclave Part 1,4800000,Apartment
+850,770.0,2,2.0,Mahavir Enclave,3790000,Builder_Floor
+851,810.0,3,2.0,Mahavir Enclave,4200000,Apartment
+852,710.0,2,2.0,Mahavir Enclave,2900000,Apartment
+853,950.0,3,2.0,Mahavir Enclave Part 1,5000000,Builder_Floor
+854,450.0,1,1.0,Mahavir Enclave Part 1,2100000,Builder_Floor
+855,500.0,2,2.0,Mahavir Enclave Part 1,3200000,Apartment
+856,600.0,2,1.0,Mahavir Enclave Part 1,3000000,Apartment
+857,420.0,1,1.0,Mahavir Enclave Part 1,2300000,Builder_Floor
+858,900.0,3,2.0,Mahavir Enclave Part 1,5900000,Builder_Floor
+859,945.0,3,2.0,Mahavir Enclave Part 1,5500000,Apartment
+861,450.0,2,1.0,Mahavir Enclave Part 3,1700000,Apartment
+862,430.0,1,1.0,Mahavir Enclave,1850000,Builder_Floor
+863,550.0,2,2.0,Mahavir Enclave,2300000,Builder_Floor
+864,810.0,3,2.0,Mahavir Enclave,3800000,Builder_Floor
+865,720.0,3,2.0,Mahavir Enclave Part 1,4500000,Builder_Floor
+866,360.0,2,1.0,Mahavir Enclave,2200000,Apartment
+867,820.0,3,2.0,Mahavir Enclave,5200000,Builder_Floor
+868,459.0,2,2.0,Mahavir Enclave Part 3,2200000,Builder_Floor
+870,450.0,1,1.0,Narela,2200000,Apartment
+871,900.0,2,2.0,Narela,3800000,Apartment
+872,360.0,1,1.0,Narela,1800000,Apartment
+873,559.7228,2,2.0,Narela,2850000,Apartment
+874,350.0,1,1.0,Narela,2500000,Apartment
+875,365.0,1,1.0,Narela,3500000,Apartment
+876,390.0,1,1.0,Narela,2000000,Apartment
+877,350.0,1,1.0,Narela,3000000,Apartment
+878,210.0,1,1.0,Narela,2000000,Apartment
+879,50.0,1,1.0,Narela,3500000,Apartment
+880,500.0,1,1.0,Narela,1800000,Apartment
+881,350.0,1,1.0,Narela,1600000,Apartment
+882,379.0,1,1.0,Narela,1600000,Builder_Floor
+883,236.8058,1,1.0,Narela,2000000,Apartment
+884,445.0,1,1.0,Narela Mandi,1500000,Apartment
+885,452.0838,2,1.0,Narela,3000000,Apartment
+886,350.0,1,1.0,Narela,1490000,Apartment
+887,437.0,1,1.0,Narela,3500000,Apartment
+888,61.0,3,3.0,Narela,4000000,Apartment
+889,495.0,2,2.0,Narela,1750000,Builder_Floor
+890,900.0,2,2.0,Narela Sector A9,4600000,Apartment
+891,350.0,1,1.0,Narela,1800000,Builder_Floor
+892,585.0,2,2.0,Narela,1900000,Builder_Floor
+893,198.0,1,1.0,Narela Sector A5,1000000,Apartment
+894,4900.0,1,1.0,Narela,1000000,Apartment
+895,2077.4327,1,1.0,Narela,1000000,Builder_Floor
+896,50.0,1,1.0,Narela,3500000,Apartment
+897,990.0,3,2.0,Narela,5000000,Builder_Floor
+898,425.0,1,1.0,Narela,2200000,Apartment
+899,750.0,2,2.0,Malviya Nagar,13000000,Builder_Floor
+900,1400.0,3,3.0,Malviya Nagar,34000000,Builder_Floor
+901,3600.0,4,4.0,Malviya Nagar,60000000,Builder_Floor
+902,3000.0,4,5.0,Malviya Nagar,74500000,Builder_Floor
+903,2750.0,4,5.0,Malviya Nagar,75000000,Builder_Floor
+904,2050.0,4,4.0,Malviya Nagar,62500000,Builder_Floor
+905,3000.0,4,4.0,Malviya Nagar,67000000,Builder_Floor
+906,850.0,2,2.0,Malviya Nagar,8500000,Builder_Floor
+907,750.0,2,2.0,Malviya Nagar,11500000,Builder_Floor
+908,2600.0,4,5.0,Malviya Nagar,52500000,Builder_Floor
+909,800.0,2,2.0,Malviya Nagar,12000000,Builder_Floor
+910,550.0,2,2.0,Malviya Nagar,10700000,Builder_Floor
+911,700.0,2,2.0,Malviya Nagar,9000000,Apartment
+912,2316.0,3,4.0,Malviya Nagar,100000000,Builder_Floor
+913,900.0,3,2.0,Malviya Nagar,6200000,Apartment
+914,100.0,3,2.0,Malviya Nagar,17000000,Builder_Floor
+916,1500.0,2,2.0,Malviya Nagar,13000000,Builder_Floor
+917,650.0,3,2.0,Malviya Nagar,4200000,Builder_Floor
+918,2000.0,4,4.0,Malviya Nagar,36000000,Builder_Floor
+919,500.0,1,1.0,Malviya Nagar,2300000,Apartment
+920,1125.0,2,2.0,Malviya Nagar,8100000,Builder_Floor
+921,1300.0,3,3.0,Malviya Nagar,10000000,Builder_Floor
+922,2500.0,4,5.0,Malviya Nagar,62500000,Builder_Floor
+923,2200.0,4,5.0,Malviya Nagar,65000000,Builder_Floor
+924,1290.0,3,2.0,Malviya Nagar,20000000,Builder_Floor
+925,2250.0,4,4.0,Malviya Nagar,57500000,Builder_Floor
+926,1350.0,3,3.0,Malviya Nagar,30000000,Builder_Floor
+927,1400.0,3,3.0,Malviya Nagar,30000000,Builder_Floor
+928,1700.0,3,3.0,Malviya Nagar,30000000,Builder_Floor
+929,450.0,1,1.0,Dilshad Garden,3300000,Apartment
+930,750.0,2,1.0,Dilshad Garden,7350000,Apartment
+932,400.0,1,1.0,Dilshad Garden,3500000,Apartment
+933,650.0,2,2.0,Dilshad Garden,6500000,Builder_Floor
+934,900.0,2,2.0,Dilshad Garden,6900000,Builder_Floor
+935,400.0,1,1.0,Dilshad Garden,3600000,Builder_Floor
+936,900.0,3,2.0,Dilshad Garden,13500000,Apartment
+937,1000.0,3,2.0,Dilshad Garden,9200000,Apartment
+938,405.0,1,1.0,Dilshad Garden,2500000,Apartment
+939,1700.0,3,2.0,Dilshad Garden,17000000,Apartment
+940,800.0,3,2.0,Dilshad Garden,9030000,Apartment
+941,1076.39,3,2.0,Dilshad Garden,9300000,Builder_Floor
+942,750.0,2,1.0,Dilshad Garden,6500000,Apartment
+943,460.0,2,1.0,Dilshad Garden,3300000,Builder_Floor
+944,370.0,1,1.0,Dilshad Garden,2400000,Builder_Floor
+945,1800.0,3,3.0,Dilshad Garden,15000000,Builder_Floor
+946,1080.0,3,1.0,Dilshad Garden,7000000,Apartment
+947,350.0,1,1.0,Dilshad Garden,4200000,Apartment
+948,500.0,2,1.0,Dilshad Garden,5800000,Apartment
+949,900.0,3,2.0,Dilshad Garden,4800000,Apartment
+950,800.0,2,2.0,Dilshad Garden,7500000,Apartment
+951,350.0,1,1.0,Dilshad Garden,3000000,Apartment
+952,430.556,1,1.0,Dilshad Garden,4300000,Apartment
+953,500.0,1,1.0,Dilshad Garden,2600000,Builder_Floor
+954,1450.0,2,2.0,Dilshad Garden,7000000,Apartment
+955,800.0,2,2.0,Dilshad Garden,6000000,Builder_Floor
+956,1000.0,2,2.0,Dilshad Garden,6700000,Apartment
+957,1000.0,3,3.0,Dilshad Garden,9500000,Apartment
+958,1600.0,3,2.0,Dilshad Garden,17000000,Apartment
+959,900.0,2,2.0,Vasundhara Enclave,8000000,Apartment
+960,1500.0,3,3.0,Vasundhara Enclave,12000000,Apartment
+961,1050.0,2,2.0,Vasundhara Enclave,9000000,Apartment
+962,1300.0,3,2.0,Vasundhara Enclave,11500000,Apartment
+965,1350.0,4,4.0,Vasundhara Enclave,10500000,Apartment
+966,1000.0,3,2.0,Vasundhara Enclave,12000000,Apartment
+967,1400.0,3,2.0,Vasundhara Enclave,11000000,Apartment
+968,975.0,3,2.0,Vasundhara Enclave,12000000,Apartment
+969,900.0,2,2.0,Vasundhara Enclave,9000000,Apartment
+970,1100.0,2,2.0,Vasundhara Enclave,10000000,Apartment
+971,950.0,2,2.0,Vasundhara Enclave,8100000,Apartment
+972,1300.0,3,3.0,Vasundhara Enclave,9200000,Apartment
+973,1459.0,3,3.0,Vasundhara Enclave,14200000,Apartment
+974,1000.0,2,2.0,Vasundhara Enclave,7500000,Apartment
+975,1100.0,2,2.0,Vasundhara Enclave,9500000,Apartment
+976,1450.0,3,2.0,Vasundhara Enclave,14000000,Apartment
+977,1450.0,3,3.0,Vasundhara Enclave,11600000,Apartment
+978,1150.0,3,3.0,Vasundhara Enclave,12000000,Apartment
+979,780.0,2,2.0,Vasundhara Enclave,7500000,Apartment
+980,1300.0,3,2.0,Vasundhara Enclave,9800000,Apartment
+981,1350.0,3,3.0,Vasundhara Enclave,12000000,Apartment
+982,1200.0,3,2.0,Vasundhara Enclave,12500000,Apartment
+983,1460.0,3,3.0,Vasundhara Enclave,16500000,Apartment
+984,1460.0,3,3.0,Vasundhara Enclave,12000000,Apartment
+985,1100.0,2,2.0,Vasundhara Enclave,7200000,Apartment
+986,1500.0,3,3.0,Vasundhara Enclave,15000000,Apartment
+987,1050.0,2,2.0,Vasundhara Enclave,10000000,Apartment
+988,1350.0,3,3.0,Vasundhara Enclave,11000000,Apartment
+989,1500.0,2,2.0,Okhla,24700000,Apartment
+990,976.0,2,2.0,Okhla,24900000,Apartment
+991,540.0,2,1.0,Okhla,3600000,Builder_Floor
+992,450.0,1,1.0,Okhla,1700000,Builder_Floor
+993,900.0,2,2.0,Okhla,11000000,Apartment
+994,2500.0,4,4.0,Okhla,75000000,Builder_Floor
+995,979.5149,2,2.0,Okhla Phase 1,24800000,Apartment
+996,945.0,2,2.0,Okhla Phase 1,24900000,Apartment
+997,976.0,2,2.0,Okhla Phase 1,24900000,Apartment
+998,1531.0,2,2.0,Okhla,25900000,Apartment
+999,1000.0,2,2.0,Okhla,11700000,Builder_Floor
+1000,750.0,3,2.0,Okhla,13500000,Apartment
+1001,900.0,3,2.0,Okhla,5500000,Builder_Floor
+1002,1512.0,2,2.0,Okhla,30000000,Apartment
+1003,35.0,3,2.0,Okhla,4950000,Apartment
+1004,1500.0,3,2.0,Okhla,16000000,Apartment
+1005,2907.0,4,4.0,Okhla,30000000,Apartment
+1006,2210.0,4,3.0,Okhla,41000000,Builder_Floor
+1007,750.0,2,2.0,Okhla,3800000,Builder_Floor
+1008,2518.7526,4,5.0,Okhla Phase 1,68900000,Apartment
+1009,588.0,2,2.0,Okhla,1800000,Apartment
+1010,540.0,2,1.0,New Friends Colony,1500000,Builder_Floor
+1011,1100.0,3,3.0,Okhla,12500000,Apartment
+1012,550.0,2,1.0,Okhla,1600000,Apartment
+1013,750.0,3,2.0,Okhla,2400000,Builder_Floor
+1014,1260.0,3,2.0,Okhla,7000000,Builder_Floor
+1015,675.0,2,2.0,Okhla,3100000,Builder_Floor
+1016,810.0,2,2.0,Okhla,14500000,Apartment
+1017,3150.0,4,5.0,Okhla,61500000,Builder_Floor
+1018,2000.0,4,4.0,Okhla,27500000,Builder_Floor
+1019,1775.0,3,3.0,Karol Bagh,25500000,Apartment
+1020,1135.0,3,3.0,Karol Bagh,25000000,Apartment
+1021,1252.0,2,2.0,Karol Bagh,18500000,Apartment
+1022,2000.0,4,4.0,Karol Bagh,39700000,Apartment
+1023,530.0,4,1.0,Karol Bagh,6800000,Apartment
+1025,1017.0,3,3.0,Karol Bagh,22000000,Apartment
+1026,1775.0,3,3.0,Karol Bagh,25500000,Apartment
+1027,987.0,2,2.0,Karol Bagh,17000000,Apartment
+1028,1912.0,3,3.0,Karol Bagh,27500000,Apartment
+1029,5236.0,5,7.0,Karol Bagh,73700000,Apartment
+1030,2805.0,4,4.0,Karol Bagh,52300000,Apartment
+1031,1500.0,3,3.0,Karol Bagh,16000000,Apartment
+1032,1280.0,3,3.0,Karol Bagh,15000000,Builder_Floor
+1033,1775.0,3,3.0,Karol Bagh,25500000,Apartment
+1034,675.0,2,2.0,Karol Bagh,10000000,Builder_Floor
+1035,576.0,2,2.0,Karol Bagh,5000000,Apartment
+1036,1206.0,3,3.0,Karol Bagh,20000000,Builder_Floor
+1037,1143.0,2,2.0,Karol Bagh,16000000,Apartment
+1038,345.0,1,1.0,Karol Bagh,5500000,Builder_Floor
+1039,720.0,2,1.0,Karol Bagh,7000000,Builder_Floor
+1040,468.0,2,2.0,Karol Bagh,4100000,Builder_Floor
+1042,950.0,2,2.0,Karol Bagh,12500000,Apartment
+1043,535.0,2,1.0,Karol Bagh,3900000,Apartment
+1044,1200.0,3,2.0,Karol Bagh,14500000,Builder_Floor
+1045,1501.0,3,2.0,Karol Bagh,20000000,Apartment
+1046,1135.0,3,3.0,Karol Bagh,24500000,Apartment
+1047,1200.0,3,2.0,Karol Bagh,20900000,Apartment
+1048,2200.0,3,3.0,Karol Bagh,43100000,Apartment
+1049,1240.0,3,3.0,Kirti Nagar,18000000,Apartment
+1050,3002.0,4,5.0,Kirti Nagar,50000000,Apartment
+1051,1350.0,3,2.0,Kirti Nagar,18500000,Apartment
+1052,2300.0,4,5.0,Kirti Nagar,46500000,Apartment
+1053,1429.0,3,3.0,Kirti Nagar,17500000,Apartment
+1054,2430.0,4,5.0,Kirti Nagar,42500000,Apartment
+1055,1450.0,3,3.0,Kirti Nagar,15500000,Apartment
+1056,1250.0,2,2.0,Kirti Nagar,15000000,Apartment
+1057,2800.0,4,4.0,Kirti Nagar,40000000,Apartment
+1058,1646.0,3,3.0,Kirti Nagar,20000000,Apartment
+1059,900.0,2,2.0,Kirti Nagar,6700000,Apartment
+1060,1250.0,3,2.0,Kirti Nagar,16000000,Apartment
+1061,900.0,3,2.0,Kirti Nagar,8000000,Builder_Floor
+1062,1590.0,3,2.0,Kirti Nagar,25000000,Apartment
+1063,990.0,3,2.0,Kirti Nagar,25000000,Apartment
+1064,2282.0,4,5.0,Kirti Nagar,37500000,Apartment
+1065,1260.0,3,3.0,Kirti Nagar,25000000,Apartment
+1066,1457.0,3,3.0,Kirti Nagar,23000000,Apartment
+1067,1400.0,3,2.0,Kirti Nagar,17500000,Apartment
+1068,2175.0,4,4.0,Kirti Nagar,44000000,Apartment
+1069,1450.0,3,3.0,Kirti Nagar,15000000,Apartment
+1070,2800.0,4,5.0,Kirti Nagar,42500000,Apartment
+1071,861.112,2,2.0,Kirti Nagar,5000000,Builder_Floor
+1072,2282.0,4,5.0,Kirti Nagar,38000000,Apartment
+1073,1753.0,3,3.0,Kirti Nagar,19000000,Apartment
+1074,2659.0,4,5.0,Kirti Nagar,43500000,Apartment
+1075,1550.0,3,2.0,Kirti Nagar,19500000,Apartment
+1076,1470.0,3,2.0,Kirti Nagar,14200000,Apartment
+1077,702.0,3,2.0,Kirti Nagar,14200000,Apartment
+1078,1138.0,2,2.0,Kirti Nagar,13500000,Apartment
+1079,1600.0,3,3.0,Sheikh Sarai Phase 1,21000000,Builder_Floor
+1080,1600.0,3,3.0,Sheikh Sarai Phase 1,22500000,Builder_Floor
+1081,1250.0,2,4.0,Sheikh Sarai,19000000,Builder_Floor
+1082,810.0,3,2.0,Sheikh Sarai Phase 2,7500000,Builder_Floor
+1083,585.0,2,2.0,Sheikh Sarai,4000000,Builder_Floor
+1084,1700.0,3,3.0,Sheikh Sarai,8000000,Builder_Floor
+1085,1800.0,3,4.0,Sheikh Sarai Phase 1,19000000,Apartment
+1086,600.0,1,1.0,Sheikh Sarai Phase 2,7000000,Apartment
+1087,1250.0,3,3.0,Sheikh Sarai,5800000,Builder_Floor
+1088,600.0,3,2.0,Sheikh Sarai,8000000,Builder_Floor
+1089,1600.0,3,4.0,Sheikh Sarai Phase 1,18800000,Apartment
+1090,1100.0,3,2.0,Sheikh Sarai,6000000,Builder_Floor
+1091,450.0,1,1.0,Sheikh Sarai,2200000,Apartment
+1092,855.0,3,2.0,Sheikh Sarai,6500000,Builder_Floor
+1093,1291.668,3,2.0,Sheikh Sarai Phase 1,23500000,Apartment
+1094,1300.0,2,2.0,Sheikh Sarai Phase 1,16000000,Apartment
+1095,1350.0,3,3.0,Sheikh Sarai Phase 1,20000000,Apartment
+1096,900.0,2,2.0,Sheikh Sarai Phase 1,5500000,Builder_Floor
+1097,850.0,2,2.0,Sheikh Sarai Phase 1,13500000,Apartment
+1098,1650.0,3,3.0,Sheikh Sarai Phase 1,22500000,Builder_Floor
+1099,650.0,2,2.0,Sheikh Sarai,3800000,Apartment
+1100,630.0,2,2.0,Sheikh Sarai,4600000,Builder_Floor
+1101,1250.0,2,1.0,Sheikh Sarai Phase 1,17500000,Apartment
+1102,1800.0,4,3.0,Sheikh Sarai,5500000,Builder_Floor
+1103,1500.0,3,3.0,Sheikh Sarai Phase 1,22500000,Builder_Floor
+1104,1100.0,2,2.0,Sheikh Sarai Phase 1,12500000,Apartment
+1105,1400.0,3,2.0,Sheikh Sarai Phase 1,19000000,Apartment
+1106,1300.0,2,2.0,Sheikh Sarai Phase 1,15500000,Apartment
+1107,1100.0,2,2.0,Sheikh Sarai Phase 1,13500000,Apartment
+1108,1600.0,3,3.0,Sheikh Sarai Phase 1,21000000,Apartment
+1109,2250.0,4,4.0,Punjabi Bagh West,50000000,Builder_Floor
+1110,2592.0,4,3.0,Punjabi Bagh,42500000,Builder_Floor
+1111,1800.0,4,4.0,Punjabi Bagh West,45500000,Builder_Floor
+1112,1700.0,3,3.0,Punjabi Bagh,23000000,Builder_Floor
+1113,1640.0,3,3.0,Punjabi Bagh West,12000000,Apartment
+1114,2572.0,3,3.0,Punjabi Bagh West,35000000,Apartment
+1115,2100.0,3,3.0,Punjabi Bagh,25000000,Builder_Floor
+1116,1620.0,3,3.0,Punjabi Bagh,29000000,Builder_Floor
+1117,2500.0,4,4.0,Punjabi Bagh West,80000000,Builder_Floor
+1118,2250.0,3,3.0,Punjabi Bagh West,20500000,Apartment
+1119,2445.0,4,4.0,Punjabi Bagh,52500000,Apartment
+1120,2250.0,4,4.0,Punjabi Bagh,37500000,Builder_Floor
+1121,800.0,2,2.0,Punjabi Bagh West,7500000,Apartment
+1122,1450.0,3,3.0,Punjabi Bagh,32500000,Builder_Floor
+1123,1440.0,3,3.0,Punjabi Bagh,24500000,Builder_Floor
+1124,5220.0,5,5.0,Punjabi Bagh West,65000000,Builder_Floor
+1125,1800.0,3,3.0,Punjabi Bagh,27500000,Builder_Floor
+1126,4455.0,5,5.0,Punjabi Bagh West,115000000,Builder_Floor
+1127,195.0,3,3.0,Punjabi Bagh,28000000,Builder_Floor
+1128,807.2925,2,1.0,Punjabi Bagh,8000000,Builder_Floor
+1129,3500.0,4,4.0,Punjabi Bagh West,75100000,Builder_Floor
+1130,1000.0,2,2.0,Punjabi Bagh,7800000,Apartment
+1131,900.0,2,2.0,Punjabi Bagh,15000000,Builder_Floor
+1132,1800.0,3,3.0,Punjabi Bagh East,27500000,Builder_Floor
+1133,17010.0,3,3.0,Punjabi Bagh West,25000000,Builder_Floor
+1134,2340.0,4,4.0,Punjabi Bagh East,26000000,Builder_Floor
+1135,1350.0,3,3.0,Punjabi Bagh East,23500000,Apartment
+1136,464.0,3,1.0,Punjabi Bagh,4200000,Builder_Floor
+1137,954.0,2,2.0,Punjabi Bagh East,10000000,Builder_Floor
+1138,1155.0,2,2.0,Punjabi Bagh,18500000,Builder_Floor
+1139,700.0,2,2.0,Alaknanda,16500000,Apartment
+1140,980.0,2,2.0,Alaknanda,13800000,Apartment
+1141,1350.0,3,3.0,Alaknanda,21000000,Apartment
+1142,1800.0,3,3.0,Alaknanda,22500000,Apartment
+1143,968.751,2,2.0,Alaknanda,15000000,Apartment
+1144,1250.0,3,3.0,Alaknanda,20000000,Apartment
+1145,1800.0,3,3.0,Alaknanda,20000000,Apartment
+1146,1400.0,3,2.0,Alaknanda,26000000,Builder_Floor
+1147,1000.0,3,3.0,Alaknanda,19500000,Apartment
+1148,1800.0,4,2.0,Alaknanda,21500000,Apartment
+1149,1500.0,3,3.0,Alaknanda,26500000,Apartment
+1150,1600.0,3,3.0,Alaknanda,20000000,Apartment
+1152,1400.0,3,2.0,Alaknanda,19000000,Apartment
+1153,2700.0,4,4.0,Greater Kailash 4 Nri Colony,36500000,Builder_Floor
+1154,1100.0,2,2.0,Alaknanda,15000000,Apartment
+1155,1200.0,2,2.0,Alaknanda,17500000,Apartment
+1156,1400.0,2,2.0,Alaknanda,14000000,Apartment
+1157,1500.0,3,3.0,Alaknanda,21000000,Apartment
+1158,1320.0,3,2.0,Alaknanda,15600000,Apartment
+1159,1300.0,3,3.0,Alaknanda,19000000,Apartment
+1160,1150.0,2,2.0,Alaknanda,16500000,Apartment
+1161,1440.0,3,3.0,Alaknanda,19000000,Apartment
+1162,1400.0,2,2.0,Alaknanda,16500000,Apartment
+1163,450.0,1,1.0,Alaknanda,3000000,Builder_Floor
+1164,1300.0,2,2.0,Alaknanda,15000000,Apartment
+1165,1200.0,2,2.0,Alaknanda,14300000,Apartment
+1166,1300.0,3,2.0,Alaknanda,18500000,Apartment
+1168,1400.0,3,3.0,Alaknanda,19000000,Apartment
+1169,500.0,2,2.0,Kalkaji,3300000,Builder_Floor
+1170,700.0,2,2.0,Kalkaji,3800000,Builder_Floor
+1171,900.0,3,3.0,Kalkaji,7000000,Builder_Floor
+1172,1260.0,3,3.0,Kalkaji,16500000,Builder_Floor
+1173,950.0,3,2.0,Kalkaji,8000000,Apartment
+1174,405.0,1,1.0,Kalkaji,5600000,Builder_Floor
+1175,1800.0,2,2.0,Kalkaji,21000000,Builder_Floor
+1176,1300.0,3,3.0,Kalkaji,21000000,Builder_Floor
+1177,1000.0,3,3.0,Kalkaji,8600000,Apartment
+1178,900.0,3,2.0,KalkaJi,6600000,Apartment
+1179,1800.0,3,3.0,Kalkaji,14000000,Builder_Floor
+1180,720.0,2,2.0,Kalkaji,4700000,Builder_Floor
+1181,1485.0,3,3.0,Kalkaji,30000000,Apartment
+1182,1600.0,3,3.0,Kalkaji,26000000,Builder_Floor
+1183,1200.0,2,2.0,Kalkaji,18500000,Apartment
+1184,900.0,2,2.0,Kalkaji,6500000,Apartment
+1185,900.0,2,2.0,Kalkaji,15000000,Apartment
+1187,1150.0,2,3.0,Kalkaji,16100000,Apartment
+1188,900.0,3,3.0,Kalkaji,6800000,Builder_Floor
+1189,1070.0,3,2.0,Kalkaji Extention,6800000,Apartment
+1190,1050.0,2,2.0,Kalkaji Extention,9000000,Apartment
+1192,1550.0,3,3.0,Kalkaji,27500000,Builder_Floor
+1194,810.0,2,2.0,Kalkaji,14000000,Builder_Floor
+1195,900.0,2,2.0,Kalkaji,9000000,Builder_Floor
+1196,1200.0,2,2.0,Kalkaji,16000000,Apartment
+1197,1000.0,2,3.0,Kalkaji Extention,11000000,Apartment
+1198,720.0,2,2.0,Kalkaji,5500000,Builder_Floor
+1199,2520.0,3,3.0,Hauz Khas,47500000,Builder_Floor
+1200,1700.0,3,4.0,Hauz Khas,45000000,Builder_Floor
+1201,1800.0,3,3.0,Hauz Khas,43500000,Builder_Floor
+1202,6000.0,5,5.0,Hauz Khas,180000000,Apartment
+1203,1800.0,4,4.0,Hauz Khas,80000000,Builder_Floor
+1204,2000.0,3,3.0,Hauz Khas,37500000,Apartment
+1205,2066.0,4,4.0,Hauz Khas,60000000,Builder_Floor
+1206,2050.0,3,3.0,Hauz Khas,71000000,Builder_Floor
+1207,1100.0,3,3.0,Hauz Khas,18500000,Apartment
+1208,4500.0,4,4.0,Hauz Khas,70000000,Builder_Floor
+1209,4500.0,4,5.0,Hauz Khas,85000000,Builder_Floor
+1210,6500.0,4,5.0,Hauz Khas,190000000,Builder_Floor
+1211,4350.0,4,6.0,Hauz Khas,135000000,Apartment
+1212,1750.0,3,3.0,Hauz Khas,35000000,Builder_Floor
+1213,3600.0,4,4.0,Hauz Khas,65000000,Builder_Floor
+1214,1200.0,2,2.0,Hauz Khas,27500000,Builder_Floor
+1215,1500.0,3,4.0,Hauz Khas,45000000,Builder_Floor
+1216,2250.0,4,4.0,Hauz Khas,100000000,Builder_Floor
+1217,1800.0,3,4.0,Hauz Khas,47000000,Builder_Floor
+1218,1600.0,3,4.0,Hauz Khas,27500000,Builder_Floor
+1219,2800.0,4,5.0,Hauz Khas,70000000,Builder_Floor
+1221,2400.0,4,5.0,Hauz Khas,65000000,Builder_Floor
+1222,1980.0,3,4.0,Hauz Khas,35000000,Apartment
+1223,2100.0,4,5.0,Hauz Khas,56000000,Builder_Floor
+1224,5400.0,4,4.0,Hauz Khas,110000000,Builder_Floor
+1225,1250.0,3,3.0,Hauz Khas,24000000,Builder_Floor
+1226,2300.0,4,4.0,Hauz Khas,102500000,Builder_Floor
+1227,2700.0,4,4.0,Hauz Khas,100000000,Builder_Floor
+1228,1450.0,3,3.0,Hauz Khas,45000000,Builder_Floor
+1229,2097.0,3,3.0,Chittaranjan Park,29000000,Builder_Floor
+1230,1250.0,3,3.0,Chittaranjan Park,25500000,Builder_Floor
+1231,1600.0,3,3.0,Chittaranjan Park,33500000,Builder_Floor
+1232,2600.0,4,5.0,Chittaranjan Park,62500000,Builder_Floor
+1233,1700.0,3,3.0,Chittaranjan Park,47500000,Builder_Floor
+1234,1116.0,3,3.0,Chittaranjan Park,14700000,Builder_Floor
+1235,1070.0,2,3.0,Chittaranjan Park,18000000,Builder_Floor
+1236,1200.0,3,3.0,Chittaranjan Park,22500000,Builder_Floor
+1237,1200.0,3,3.0,Chittaranjan Park,22000000,Builder_Floor
+1239,1450.0,3,3.0,Chittaranjan Park,22500000,Builder_Floor
+1240,1000.0,2,2.0,Chittaranjan Park,7500000,Apartment
+1242,945.0,2,1.0,Chittaranjan Park,6500000,Apartment
+1243,1650.0,3,3.0,Chittaranjan Park,35000000,Builder_Floor
+1244,1350.0,3,2.0,Kalkaji,17500000,Builder_Floor
+1245,2625.0,4,5.0,Chittaranjan Park,60000000,Builder_Floor
+1246,1800.0,4,4.0,Chittaranjan Park,40000000,Builder_Floor
+1247,125.0,3,3.0,Chittaranjan Park,11500000,Builder_Floor
+1248,1440.0,3,3.0,Chittaranjan Park,22500000,Builder_Floor
+1249,1900.0,3,4.0,Chittaranjan Park,28500000,Builder_Floor
+1250,1800.0,3,3.0,Chittaranjan Park,29000000,Builder_Floor
+1251,1200.0,3,2.0,Chittaranjan Park,15500000,Builder_Floor
+1252,1800.0,3,3.0,Kalkaji,26000000,Builder_Floor
+1253,1200.0,3,3.0,Chittaranjan Park,16500000,Builder_Floor
+1254,4118.0,4,5.0,Chittaranjan Park,55000000,Builder_Floor
+1255,1050.0,3,2.0,Chittaranjan Park,12500000,Builder_Floor
+1256,875.0,3,3.0,Chittaranjan Park,17500000,Builder_Floor
+1257,990.0,2,2.0,Chittaranjan Park Block A,11500000,Builder_Floor
+1258,11050.0,3,3.0,Chittaranjan Park,18500000,Builder_Floor
